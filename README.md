@@ -49,8 +49,6 @@ Install with:
 pip install -r requirements.txt
 ```
 
-(ou instale manualmente conforme sua necessidade)
-
 ## How to use
 
 1. Clone the repository:
